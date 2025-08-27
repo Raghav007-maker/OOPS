@@ -1,0 +1,325 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "AbstractClasses.Hello",
+            "projectName": "OOPS_4bb120d2"
+        },
+        {
+            "type": "java",
+            "name": "code",
+            "request": "launch",
+            "mainClass": "L3.Inheritance.code",
+            "projectName": "OOPS_4bb120d2"
+        },
+        {
+            "type": "java",
+            "name": "L2c",
+            "request": "launch",
+            "mainClass": "L2.L2c",
+            "projectName": "OOPS_4bb120d2"
+        },
+        {
+            "type": "java",
+            "name": "L2b",
+            "request": "launch",
+            "mainClass": "L2.L2b",
+            "projectName": "OOPS_4bb120d2"
+        },
+        {
+            "type": "java",
+            "name": "raghav",
+            "request": "launch",
+            "mainClass": "practiceOOPS.raghav",
+            "projectName": "OOPS_4bb120d2"
+        },
+        {
+            "type": "java",
+            "name": "UseStatic",
+            "request": "launch",
+            "mainClass": "L2.UseStatic",
+            "projectName": "OOPS_4bb120d2"
+        },
+        {
+            "type": "java",
+            "name": "query",
+            "request": "launch",
+            "mainClass": "L2.query",
+            "projectName": "OOPS_4bb120d2"
+        },
+        {
+            "type": "java",
+            "name": "first",
+            "request": "launch",
+            "mainClass": "practiceOOPS.first",
+            "projectName": "OOPS_4bb120d2"
+        },
+        {
+            "type": "java",
+            "name": "basic",
+            "request": "launch",
+            "mainClass": "practiceOOPS.basic",
+            "projectName": "OOPS_4bb120d2"
+        },
+        {
+            "type": "java",
+            "name": "CustomArrayList",
+            "request": "launch",
+            "mainClass": "L6.CustomArryList.CustomArrayList",
+            "projectName": "OOPS_4bb120d2"
+        },
+        {
+            "type": "java",
+            "name": "InterfacePrac",
+            "request": "launch",
+            "mainClass": "practiceOOPS.InterfacePrac",
+            "projectName": "OOPS_4bb120d2"
+        },
+        {
+            "type": "java",
+            "name": "ExploringInterface",
+            "request": "launch",
+            "mainClass": "practiceOOPS.ExploringInterface",
+            "projectName": "OOPS_4bb120d2"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "L7.Main",
+            "projectName": "OOPS_4bb120d2"
+        },
+        {
+            "type": "java",
+            "name": "Car",
+            "request": "launch",
+            "mainClass": "AbstractClasses.Car",
+            "projectName": "OOPS_4bb120d2"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "AbstractClasses.Main",
+            "projectName": "OOPS_4bb120d2"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "L6.Cloaning.Main",
+            "projectName": "OOPS_4bb120d2"
+        },
+        {
+            "type": "java",
+            "name": "Demo",
+            "request": "launch",
+            "mainClass": "L6.Exception_Handling.Demo",
+            "projectName": "OOPS_4bb120d2"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "L6.Exception_Handling.Main",
+            "projectName": "OOPS_4bb120d2"
+        },
+        {
+            "type": "java",
+            "name": "LambdaFunction",
+            "request": "launch",
+            "mainClass": "L6.Comparing.LambdaFunction",
+            "projectName": "OOPS_4bb120d2"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "L6.Comparing.Main",
+            "projectName": "OOPS_4bb120d2"
+        },
+        {
+            "type": "java",
+            "name": "CustomArrayListGenerics",
+            "request": "launch",
+            "mainClass": "L6.CustomArrayListGenerics",
+            "projectName": "OOPS_4bb120d2"
+        },
+        {
+            "type": "java",
+            "name": "CustomArray",
+            "request": "launch",
+            "mainClass": "L6.CustomArray",
+            "projectName": "OOPS_4bb120d2"
+        },
+        {
+            "type": "java",
+            "name": "L1",
+            "request": "launch",
+            "mainClass": "L1.L1",
+            "projectName": "OOPS_4bb120d2"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "practiceOOPS.main",
+            "projectName": "OOPS_4bb120d2"
+        },
+        {
+            "type": "java",
+            "name": "Inher_Poly",
+            "request": "launch",
+            "mainClass": "practiceOOPS.Inher_Poly",
+            "projectName": "OOPS_4bb120d2"
+        },
+        {
+            "type": "java",
+            "name": "Inher",
+            "request": "launch",
+            "mainClass": "practiceOOPS.Inher",
+            "projectName": "OOPS_4bb120d2"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "practiceOOPS.Main",
+            "projectName": "OOPS_4bb120d2"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "NestedInterface.Main",
+            "projectName": "OOPS_4bb120d2"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Extending_Inter.Main",
+            "projectName": "OOPS_4bb120d2"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "Interfaces.main",
+            "projectName": "OOPS_4bb120d2"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "OOPS_4bb120d2"
+        },
+        {
+            "type": "java",
+            "name": "three",
+            "request": "launch",
+            "mainClass": "practiceOOPS.three",
+            "projectName": "OOPS_4bb120d2"
+        },
+        {
+            "type": "java",
+            "name": "inher",
+            "request": "launch",
+            "mainClass": "L3.Inheritance.inher",
+            "projectName": "OOPS_4bb120d2"
+        },
+        {
+            "type": "java",
+            "name": "one",
+            "request": "launch",
+            "mainClass": "practiceOOPS.one",
+            "projectName": "OOPS_4bb120d2"
+        },
+        {
+            "type": "java",
+            "name": "ObjectClass",
+            "request": "launch",
+            "mainClass": "L4.ObjectClass",
+            "projectName": "OOPS_4bb120d2"
+        },
+        {
+            "type": "java",
+            "name": "subClass",
+            "request": "launch",
+            "mainClass": "L4.subClass",
+            "projectName": "OOPS_4bb120d2"
+        },
+        {
+            "type": "java",
+            "name": "Check",
+            "request": "launch",
+            "mainClass": "practiceOOPS.Check",
+            "projectName": "OOPS_4bb120d2"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "L4.main",
+            "projectName": "OOPS_4bb120d2"
+        },
+        {
+            "type": "java",
+            "name": "access",
+            "request": "launch",
+            "mainClass": "L4.access",
+            "projectName": "OOPS_4bb120d2"
+        },
+        {
+            "type": "java",
+            "name": "inher",
+            "request": "launch",
+            "mainClass": "OOPS.L3.Inheritance.inher",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "code",
+            "request": "launch",
+            "mainClass": "OOPS.L3.Inheritance.code",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "ObjectPrint",
+            "request": "launch",
+            "mainClass": "ObjectPrint",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "L2c",
+            "request": "launch",
+            "mainClass": "OOPS.L2c",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "OOPS.L3.Polymorphism.Main",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "OOPS.L3.Polymorhims.Main",
+            "projectName": ""
+        },
+        {
+            "type": "msedge",
+            "name": "http://127.0.0.1:3002/1.html",
+            "request": "launch",
+            "url": "http://127.0.0.1:3002/1.html"
+        }
+    ]
+}
