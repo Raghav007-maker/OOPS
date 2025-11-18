@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "l1",
+            "request": "launch",
+            "mainClass": "practice.l1",
+            "projectName": "OOPS_4bb120d2"
+        },
+        {
+            "type": "java",
             "name": "Hello",
             "request": "launch",
             "mainClass": "AbstractClasses.Hello",

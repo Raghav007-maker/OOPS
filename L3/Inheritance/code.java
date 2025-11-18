@@ -35,10 +35,9 @@ class code {
         // hence you should have access to weight variables
 
         // this also means, that the ones you are trying to access should be initialized
-        // but here when the object itself is typ e parent class how you will call constructor of child class
-        // 
+        // but here when the object itself is type parent class how you will call constructor of child class
 
-        // ChildClass childObj4=new baseClass(2,4,7);
+        // ChildClass childObj4=new baseClass(2,4,7); //Error you can not assign rederence to child class and object to parent class
         // System.out.println(childObj4);   
         
         Parent p = new Child();

@@ -40,6 +40,7 @@ public class L2a {
         System.out.println("Hello from opp2 class");
         // here we can create an object for fun2 in main class method and greeting2 method does not require an object to create in fun2.
         greeting2();
+        fun();
         // From non static function we can call static as well as non static function
     }
 

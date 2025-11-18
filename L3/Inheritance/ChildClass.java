@@ -16,7 +16,7 @@ public class ChildClass extends baseClass {
         super(l, w, h); //what is this --->call the parent class constructor
         //used to initialize parent class constructor
 
-        // System.out.println(this.weight);
-        // this.weight = weight;
+        System.out.println(this.weight);
+        this.weight = weight;
     }
 }

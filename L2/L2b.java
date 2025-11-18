@@ -5,7 +5,7 @@ public class L2b {
     static int b;
 
 
-    static{//will only run once when the first obj is create i.e. when the class is loaded for the first time
+    static{ //will only run once when the first obj is create i.e. when the class is loaded for the first time
         System.out.println("I am in static Block");
         b=a*5;
     }
@@ -27,7 +27,7 @@ public class L2b {
         System.out.println(obj3.age);
     }
     static class A{
-         int age;
+        int age;
         A(int age){
             this.age=age;
         } 

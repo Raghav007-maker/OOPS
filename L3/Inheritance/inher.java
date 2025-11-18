@@ -25,16 +25,17 @@ class two extends one{
 public class inher {
     public static void main(String[] args) {
         one obj2=new one(23);
-        
         System.out.println(obj2.first);
+
         two obj3=new two(34,76);
         System.out.println(obj3.first);
 
         Child obj4=new Child();
         obj4.printValues();
-        obj4.greet();        
+        obj4.greet();     
     }
 }
+
 class Parent {
 int value = 10;
 
@@ -59,5 +60,4 @@ class Child extends Parent {
         super.greet(); // Calls Parent's greet()
         System.out.println("Hello from Child");
     }
-
 }

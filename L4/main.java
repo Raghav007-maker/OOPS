@@ -8,7 +8,7 @@ public class main {
         // 2. modify the data members
 
 
-        // by applying a variable or method to be private then this means that that varible can be access only in that file only
+        // by applying a variable or method to be private then this means that that varible can be access only in that class only
         // how to access any private variable like num by getter and setter
         System.out.println(obj.getNum());
         // here we are accessing the function which is accessing the variable num as it is in same file

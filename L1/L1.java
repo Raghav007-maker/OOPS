@@ -25,9 +25,7 @@ public class L1 {
         System.out.println(two.name);
         two.name="Raghav";
         Students three=new Students(one);
-        
         System.out.println(three.name);
-
     }
 
     static class Students {
@@ -63,3 +61,4 @@ public class L1 {
         }
     }
 }
+

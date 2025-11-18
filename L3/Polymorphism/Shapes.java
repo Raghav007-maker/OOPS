@@ -34,7 +34,6 @@ class Calculator {
 // Happens at runtime.
 // The method call is resolved based on the actual object's type, not the reference type.
 class Animal {
-
     void sound() {
         System.out.println("Generic sound");
     }

@@ -4,7 +4,6 @@ public class ObjectPrint {
         this.num = num;
     }
 
-
     @Override
     public String toString(){
         return "ObjectPrint{" +
@@ -13,7 +12,6 @@ public class ObjectPrint {
     }
     public static void main(String[] args) {
         ObjectPrint obj=new ObjectPrint(54);
-        System.out.println(obj);
-        
+        System.out.println(obj);   
     }
 }
