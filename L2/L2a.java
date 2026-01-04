@@ -11,7 +11,6 @@ public class L2a {
         Human bansal=new Human(18,"Bansal",1000000,false);
         // we prefer to use the class name to access static variables
         System.out.println("Population: " + Human.population);
-
         
         // In summary, use static when you want a variable or method to be shared across all instances or accessible without creating an object.
         L2a obj = new L2a();
@@ -47,7 +46,6 @@ public class L2a {
     void greeting2(){//non-static
         System.out.println("Hello from opp2 class");
     } 
-
     
 }
 
@@ -61,7 +59,7 @@ class Human{
     static void message(){
         // System.out.println("Hello my name is " + this.name);//you can not access this inside any static method as static stuff is independent of object
     }
-    Human(int age,String name,int salary,boolean married){
+    public Human(int age,String name,int salary,boolean married){
         this.age=age;  
         this.name=name;
         this.salary=salary;

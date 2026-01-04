@@ -19,13 +19,17 @@ public class L1 {
         System.out.println(random.name);
         
         Students one = new Students();
+        System.out.println(one.name);
         Students two=one;
         one.name="Kunal";
         System.out.println(one.name);
         System.out.println(two.name);
         two.name="Raghav";
+        System.out.println(one.name);
+        System.out.println(two.name);
         Students three=new Students(one);
         System.out.println(three.name);
+        System.out.println(three.rollno); // 0 as we have not assign any rollNo to Object one
     }
 
     static class Students {

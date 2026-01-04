@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "L1",
+            "request": "launch",
+            "mainClass": "L1.L1",
+            "projectName": ""
+        },
+        {
+            "type": "java",
             "name": "l1",
             "request": "launch",
             "mainClass": "practice.l1",
