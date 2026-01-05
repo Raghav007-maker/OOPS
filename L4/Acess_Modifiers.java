@@ -2,8 +2,8 @@ package L4;
 
 public class Acess_Modifiers {
     private int num;
-    public String name;
-    int age; //Default
+    public String name = "Raghav";
+    int age; // Default
     protected int no=15;
     int[] arr;
 
