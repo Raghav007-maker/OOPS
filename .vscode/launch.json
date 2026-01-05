@@ -2,6 +2,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "code",
+            "request": "launch",
+            "mainClass": "L3.Inheritance.code",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "UseStatic",
+            "request": "launch",
+            "mainClass": "L2.UseStatic",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "query",
+            "request": "launch",
+            "mainClass": "L2.query",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "L2c",
+            "request": "launch",
+            "mainClass": "L2.L2c",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "L2a",
+            "request": "launch",
+            "mainClass": "L2.L2a",
+            "projectName": ""
+        },
+        {
+            "type": "java",
             "name": "L1",
             "request": "launch",
             "mainClass": "L1.L1",

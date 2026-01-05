@@ -4,8 +4,7 @@ public class L2c {
     
     static class B {
         static int age = 18;
-        B() {
-        }
+        B() {}
         void increaseAge(int age) {
             B.age=age;
             System.out.println(B.age);

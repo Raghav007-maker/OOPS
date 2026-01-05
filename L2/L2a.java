@@ -2,6 +2,7 @@ package L2;
 
 public class L2a {
     public static void main(String[] args) {
+
         Human raghav=new Human(18,"Raghav",1000000,false);
         System.out.println("Name: " + raghav.name + ", Age: " + raghav.age + ", Salary: " + raghav.salary + ", Married: " + raghav.married);
         // static variable can be accessed by class name also
@@ -26,8 +27,8 @@ public class L2a {
         
 
         // you can not access non static stuff without referencing their instances in a static content
-        L2a obj=new L2a();
-        obj.greeting(); // this is how we can use non-static method in static method
+        L2a obj = new L2a();
+        // obj.greeting(); // this is how we can use non-static method in static method
     }
 
     // we know something which is not static is belong to the object
@@ -38,7 +39,7 @@ public class L2a {
     void fun2(){//non-static method
         System.out.println("Hello from opp2 class");
         // here we can create an object for fun2 in main class method and greeting2 method does not require an object to create in fun2.
-        greeting2();
+        // greeting2();
         fun();
         // From non static function we can call static as well as non static function
     }
